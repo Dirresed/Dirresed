@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Dirresed
+- 👀 I’m interested in Video Games :/
+- 🌱 I’m currently learning Developing
+- 💞️ I’m looking to collaborate on Video Games
+- 📫 How to reach me Gmail :/ Dirrese1@gmail.com
+
+<!---
+Dirresed/Dirresed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
