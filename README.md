@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Games :/
 - 🌱 I’m currently learning Developing
 - 💞️ I’m looking to collaborate on Video Games
-- 📫 How to reach me Gmail :/ Dirrese1@gmail.com
+- 📫 How to reach me Gmail :/ Dirresed1@gmail.com
 
 <!---
 Dirresed/Dirresed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
